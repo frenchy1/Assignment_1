@@ -1,0 +1,6 @@
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\bin\Debug\DRAssignment_1.exe.config
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\bin\Debug\DRAssignment_1.exe
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\bin\Debug\DRAssignment_1.pdb
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\obj\Debug\DRAssignment_1.csprojAssemblyReference.cache
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\obj\Debug\DRAssignment_1.exe
+C:\Users\engli\source\repos\DRAssignment_1\DRAssignment_1\obj\Debug\DRAssignment_1.pdb
